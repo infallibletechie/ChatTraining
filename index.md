@@ -1,3 +1,4 @@
+<html>
 <a id="liveagent_button_online_5738c000000QVxa" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('5738c000000QVxa')">
 Online Chat Content
 </a>
@@ -15,3 +16,4 @@ liveagent.showWhenOffline('5738c000000QVxa', document.getElementById('liveagent_
 <script type='text/javascript'>
 liveagent.init('https://d.la5-c2-ia5.salesforceliveagent.com/chat', '5728c000000QUAz', '00D8c0000015heN');
 </script>
+</html>
